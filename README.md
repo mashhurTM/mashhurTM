@@ -6,12 +6,9 @@
 
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
-  <p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=100" alt="Motivational Quote"/>
 </p>
-
-
 
 
 <p align="center">
