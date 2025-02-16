@@ -10,7 +10,7 @@
 
 
   <p align="center">
-  <a href="https://t.me/mashhurphpDEV" target="_blank">
+  <a href="https://t.me/mashhur_phpdev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=Let's%20Chat!" alt="Telegram"/>
   </a>
 </p>
