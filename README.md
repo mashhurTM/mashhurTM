@@ -7,12 +7,10 @@
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
+![Mashhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
 
 
- <details>
-  <summary>Click to see more!</summary>
-  <p>Here you can add some hidden text or links! 👀</p>
-</details>
+
 
 
 
