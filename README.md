@@ -7,7 +7,13 @@
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
-  [![wakatime](https://wakatime.com/badge/user/your_wakatime_username.svg)](https://wakatime.com/@your_wakatime_username)
+
+
+ <details>
+  <summary>Click to see more!</summary>
+  <p>Here you can add some hidden text or links! 👀</p>
+</details>
+
 
 
 
