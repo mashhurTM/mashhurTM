@@ -21,6 +21,12 @@
 </p>
 
 
+<h3 align="center">🐍 Snake Game 🐍</h3>
+<p align="center">
+  <img src="https://github.com/mashhurTM/mashhur/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+
 
 
 
