@@ -7,11 +7,8 @@
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashhur&theme=radical)
 
 
 
