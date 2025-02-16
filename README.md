@@ -1,7 +1,7 @@
 <h2 align="center"> Are we working 👋</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" alt="Working animation">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Working animation">
 </p>
 
 
