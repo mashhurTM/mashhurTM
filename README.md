@@ -7,7 +7,10 @@
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
-![Mashhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Web+Developer;Copywriter;Freelancer" />
+</p>
+
 
 
 
