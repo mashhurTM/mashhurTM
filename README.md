@@ -6,8 +6,13 @@
 
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical) <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=100" alt="Motivational Quote"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashhur&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashhur&show_icons=true&theme=radical)
+
+
+  <p align="center">
+  <a href="https://t.me/mashhurphpDEV" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=Let's%20Chat!" alt="Telegram"/>
+  </a>
 </p>
 
 
